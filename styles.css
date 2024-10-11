@@ -208,3 +208,9 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+@media (max-width: 500px) {
+    .container {
+        width: 95%;
+    };
+}
